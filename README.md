@@ -34,6 +34,14 @@ Note: I'm pretty sure these come default with something on arch btw because i al
 
 Download the executable from the [releases page](https://github.com/GustavoWidman/video2gif/releases/) and add it to your PATH or just throw it in `/usr/local/bin` if you feel like it.
 
+## AUR
+
+If you are using Arch Linux (btw), you can install the package from the AUR. The package is called `video2gif` and you can install it with your favorite AUR helper. Here is an example using `yay`:
+
+```bash
+yay -S video2gif
+```
+
 ## Manual Build
 
 If you want to build the executable yourself, you can run the `build.sh` script. This script will create a virtual environment, install the dependencies and then use `nuitka` to compile the script into an executable. You can run the script with the following command:
