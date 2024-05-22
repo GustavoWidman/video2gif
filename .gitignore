@@ -174,3 +174,14 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# Dont commit the built binary
+video2gif
+
+# Dont commit .tape files (i used some for recording)
+*.tape
+
+# Dont commit my testing stuff lol
+*.gif
+*.webm
+*.mp4
