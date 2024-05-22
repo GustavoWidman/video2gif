@@ -30,7 +30,7 @@ Note: I'm pretty sure these come default with something on arch btw because i al
 
 ## Installation
 
-Download the executable from the releases page and add it to your PATH or just throw it in `/usr/local/bin` if you feel like it.
+Download the executable from the [releases page](https://github.com/GustavoWidman/video2gif/releases/) and add it to your PATH or just throw it in `/usr/local/bin` if you feel like it.
 
 ## Manual Build
 
