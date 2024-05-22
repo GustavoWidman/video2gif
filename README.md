@@ -4,6 +4,8 @@
 
 This is a overengineered python CLI that uses `rich` and `typer` to make itself fancier than it should be.  It converts any video file to a gif file and allows you to set the start and end time of the video, aswell as the fps of the gif and what converter you want to use (available options are `ffmpeg`, `imageio` and `ImageMagick`, the last two of which use `moviepy` which ends up making them a slower option).
 
+![usage](https://github.com/GustavoWidman/video2gif/assets/123963822/f73040fb-6ab4-44dc-8b01-8a4fb16d6f4c)
+
 ## Dependencies
 
 The following dependencies listed here are python dependencies and the ones I used to develop the script. Note that if you run the `build.sh` script to build your own executable or download the one I built on the releases page, you won't need to install any of these.
